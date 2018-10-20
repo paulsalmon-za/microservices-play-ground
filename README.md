@@ -2,7 +2,7 @@
 
 High level goals for this project is to implement the following concepts
 
-* Racing consumer with queues
+* ~~Racing consumer with queues~~
 * Event publishing using an event stream
 * Using data pumps to synchronise isolated databases
 * Producer Security
